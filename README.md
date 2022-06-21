@@ -4,7 +4,7 @@ Leveling up and learning the cloud.
 
 Find out more about me & feel free to connect with me here:
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
+
 
 [![Linkedin Badge][(https://img.shields.io/badge/-Darcy%20Wood-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darcyjwood/)](https://www.linkedin.com/in/darcyjwood/)](https://www.linkedin.com/in/darcyjwood/)
 [![Medium Badge][(https://img.shields.io/badge/Darcy%20Wood-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/darcyjwood-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://medium.com/@darcyjwood)
