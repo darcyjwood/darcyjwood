@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**darcyjwood/darcyjwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Leveling up and learning the cloud.
 
-Here are some ideas to get you started:
+Find out more about me & feel free to connect with me here:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
+
+[![Linkedin Badge][(https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/darcyjwood/)
+[![Medium Badge][(https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://medium.com/@darcyjwood)
+[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:darcyjwood@gmail.com)](mailto:darcyjwood@gmail.com)
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=darcyjwood&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darcyjwood&hide=TeX&layout=compact)
+
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=darcyjwood%2Fdarcyjwoodh&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=darcyjwood%2Fdarcyjwood)
