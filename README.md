@@ -1,8 +1,6 @@
 
 👋 Hi, I’m Darcy!
 
-👀 I’m interested in all things cloud
-
 🌱 I’m currently learning AWS, Python, Docker, Kubernetes, and Terraform
 
  💻 I’m looking to collaborate with others
