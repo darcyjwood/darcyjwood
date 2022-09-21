@@ -17,9 +17,6 @@ Find out more about me & feel free to connect with me here:
 [![Gmail Badge](https://img.shields.io/badge/-darcyjwood@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:darcyjwood@gmail.com)](mailto:darcyjwood@gmail.com)
 
 
-#![Github Stats](https://github-readme-stats.vercel.app/api?username=darcyjwood&count_private=true&show_icons=true&include_all_commits=true)
-#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darcyjwood&hide=TeX&layout=compact)
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=darcyjwood&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darcyjwood&hide=TeX&layout=compact)
 
