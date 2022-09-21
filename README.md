@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning AWS, Python, Docker, Kubernetes, and Terraform
 
-💞️ I’m looking to collaborate with others
+ 💻 I’m looking to collaborate with others
 
 
 Find out more about me & feel free to connect with me here:
